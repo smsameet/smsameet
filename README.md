@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sameet
 - 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 my email : <br>
+- 📫 call me  : <br>
     <a href="https://www.sameet.ir">weblog</a><br>
     <a href="https://www.youtube.com/channel/UC_XJ4oRW4qL2Cmi7VHo9KsQ">youtube</a><br>
     <a href="https://www.payping.ir/@sameet">Support me</a><br>
