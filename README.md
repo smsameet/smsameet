@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sameet
+- 👋 Hi, Iam sameet
 - 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 call me  : <br>
