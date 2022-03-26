@@ -1,12 +1,11 @@
 - 👋 Hi, Iam sameet
 - 👀 I’m interested in programming
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 call me  : <br>
-    <a href="https://www.sameetmoosavi.com">weblog</a><br>
-    <a href="https://www.youtube.com/channel/UC_XJ4oRW4qL2Cmi7VHo9KsQ">youtube</a><br>
-    <a href="https://www.payping.ir/@sameet">Support me</a><br>
-    <a href="https://mastodon.online/@sameet">mastadon</a><br>
-    wpf_sam@yahoo.com
+- 📫 How to reach me:
+    - check out my [Website](https://www.sameetmoosavi.com)
+    - Follow me on [youtube](https://www.youtube.com/channel/UC_XJ4oRW4qL2Cmi7VHo9KsQ)
+    - Support me [payping](https://www.payping.ir/@sameet)
+    - my mail [sameetmoosavi@yahoo.com](sameetmoosavi@yahoo.com)
 
 <!---
 smsameet/smsameet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
